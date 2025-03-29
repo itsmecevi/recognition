@@ -3,7 +3,7 @@
 * [Bank Sulselbar: Bridging the Gap: Turning Data into Actionable Insight]()
 
 ### 2023:
-* [- Universitas Padjajaran: Data Science]()
+* [Universitas Padjajaran: Data Science]()
 
 
 ### 2022:
