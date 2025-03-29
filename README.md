@@ -1,5 +1,5 @@
 ### 2024:
-* [Kaggle Machine Learning Explainability](https://drive.google.com/file/d/19h5DPrltjbLgXEpqBBBzJ6o4o7QOCmkw/view?usp=sharing)
+* [Bank Sulselbar: Predictive Analytics Optimalisasi & Prediksi Penerapan Target bank]()
 
 ### 2023:
 * [Amazon Web Service (AWS) Introduction to Machine Learning: Art of the Possible](https://drive.google.com/drive/folders/1MIlpj6G-9VHE77fG7H-BXwcqLlcHbv02?usp=sharing)
