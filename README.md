@@ -1,5 +1,6 @@
 ### 2024:
 * [Bank Sulselbar: Predictive Analytics Optimalisasi & Prediksi Penerapan Target bank]()
+* [Bank Sulselbar: Bridging the Gap: Turning Data into Actionable Insight]()
 
 ### 2023:
 * [Amazon Web Service (AWS) Introduction to Machine Learning: Art of the Possible](https://drive.google.com/drive/folders/1MIlpj6G-9VHE77fG7H-BXwcqLlcHbv02?usp=sharing)
